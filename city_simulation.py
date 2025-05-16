@@ -14,7 +14,7 @@ pygame.init()
 # Screen dimensions
 WIDTH, HEIGHT = 1200, 670
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("2D Scene with Moving Car, Cloud, and Metro Rail")
+pygame.display.set_caption("City Simulation")
 
 # Day and night colors
 DAY_SKY = (135, 206, 235)
